@@ -76,7 +76,9 @@ https://whereisitbro.netlify.app
 2. **Install Dependencies**
 
    ```bash
+
    npm install
+
    ```
 
 3. **Environment Configuration**
