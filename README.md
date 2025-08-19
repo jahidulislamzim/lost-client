@@ -65,14 +65,16 @@ https://whereisitbro.netlify.app
 ### Client Setup
 
 1. **Clone Repository**
+
    ```bash
    git clone 
-https://github.com/jahidulislamzim/lost-client
+   https://github.com/jahidulislamzim/lost-client
 
    cd lost-client
    ```
 
 2. **Install Dependencies**
+
    ```bash
    npm install
    ```
